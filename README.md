@@ -23,5 +23,5 @@
 ## Operating System(s)
 
 [![Windows](https://img.shields.io/badge/Windows-d68fff?style=for-the-badge&logo=windows&logoColor=8d00ce&color=282828)](https://www.microsoft.com/en-ca/windows/windows-11)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-d68fff?style=for-the-badge&logo=ubuntu&logoColor=8d00ce&color=282828)](https://ubuntu.com/)
-[![iOS](https://img.shields.io/badge/iOS-d68fff?style=for-the-badge&logo=ios&logoColor=8d00ce)](https://www.apple.com/ca/)
+[![Linux](https://img.shields.io/badge/Linux-d68fff?style=for-the-badge&logo=linux&logoColor=8d00ce&color=282828)](https://www.linux.org/)
+[![iOS](https://img.shields.io/badge/iOS-d68fff?style=for-the-badge&logo=ios&logoColor=8d00ce&color=282828)](https://www.apple.com/ca/)
