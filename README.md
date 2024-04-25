@@ -31,7 +31,6 @@
 
 ## Microsoft Office Suite
 
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-d68fff?style=for-the-badge&logo=microsoft-office&logoColor=AA7FFF&color=0D1117)](https://www.office.com/)
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-d68fff?style=for-the-badge&logo=microsoft-word&logoColor=AA7FFF&color=0D1117)](https://www.microsoft.com/en-ca/microsoft-365/word)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-d68fff?style=for-the-badge&logo=microsoft-excel&logoColor=AA7FFF&color=0D1117)](https://www.microsoft.com/en-ca/microsoft-365/excel)
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-d68fff?style=for-the-badge&logo=microsoft-powerpoint&logoColor=AA7FFF&color=0D1117)](https://www.microsoft.com/en-ca/microsoft-365/powerpoint)
