@@ -7,7 +7,6 @@
 ## Language(s)
 
 [![Python](https://img.shields.io/badge/Python-d68fff?style=for-the-badge&logo=python&logoColor=AA7FFF&color=0D1117)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/Python-d68fff?style=for-the-badge&logo=python&logoColor=AA7FFF&color=0D1117)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-d68fff?style=for-the-badge&logo=cplusplus&logoColor=AA7FFF&color=0D1117)](https://isocpp.org/)
 
 ## Machine Learning
