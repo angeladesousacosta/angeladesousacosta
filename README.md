@@ -21,7 +21,7 @@
 ## Database(s)
 
 [![MySQL](https://img.shields.io/badge/MySQL-d68fff?style=for-the-badge&logo=mysql&logoColor=AA7FFF&color=0D1117)](https://www.mysql.com/)
-[![Postgres](https://img.shields.io/badge/postgres-d68fff?style=for-the-badge&logo=postgresql&logoColor=AA7FFF&color=0D1117)](https://www.postgresql.org/)
+[![PostgreSQL](https://img.shields.io/badge/postgres-d68fff?style=for-the-badge&logo=postgresql&logoColor=AA7FFF&color=0D1117)](https://www.postgresql.org/)
 
 ## Operating System(s)
 
